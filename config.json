@@ -1,13 +1,11 @@
 {
-    "color": "#6495ED",
+    "color": "#8b64ed",
     "prefix": "+",
-    "name": "4Protect",
+    "name": "Zerrow Protection",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
     "owner": [
-        "1208337813339373569", 
-        "",
-        ""
+        "575728973934231572"
     ]
 }
